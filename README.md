@@ -59,7 +59,7 @@ git stash -u
 
 developの内容をmergeする（作業ブランチで作業開始前）
 ```cmd
-git meage develop
+git merge develop
 ```
 
 一時保存したスタッシュの内容を戻す
