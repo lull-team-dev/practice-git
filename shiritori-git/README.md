@@ -40,7 +40,7 @@ main      ← 本番ブランチ（完成した履歴のみ）
 
    ```bash
    git clone git@github.com:lull-team-dev/practice-git.git
-   cd shiritori-git
+   cd practice-git/shiritori-git
    ```
 
 2. `develop` を最新に
